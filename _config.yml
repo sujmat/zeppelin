@@ -10,27 +10,27 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Innagine 2019"
+email: "innagine@spgroup.com.sg"
+description: "Innagine@SP aims to bring together 300+ Industry leaders, regulatory representatives, partners and staff every year to attended SP’s innovation showcase"
 baseurl: ""
-url: "https://gdg-x.github.io"
+url: "https://innagine.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-135045312-1"
+googleAnalyticsSiteUrl: "innagine.com"
+siteVerification: "TBD"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "SP Group"
+organizerAlternateName: "SP Group"
+organizerDescription: "SP Group (SP) is a leading energy utilities company in Asia Pacific. One of Singapore’s largest corporations, SP recorded revenues of S$4.0 billion and assets of S$16.7 billion in FY15/16. SP owns and operates electricity and gas transmission and distribution businesses in Singapore and Australia. It also owns and operates the world’s largest underground district cooling network in Singapore, and is setting up district cooling operations in China. More than 1.5 million industrial, commercial and residential customers in Singapore benefit from SP’s world-class transmission, distribution and market support services. The SP networks in Singapore are amongst the most reliable and cost-effective worldwide."
+organizerEmail: "innagine@spgroup.com.sg"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://www.spgroup.com.sg"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "imagine, innovate, innovation, SP Group, programming, singapore, energy, Energy tech"
+twitterAccount: "@SPGroupSG"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -56,20 +56,17 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "Innagine <typeout> 2019"
+eventDate: "March 29, 2019"
+typeoutTextValues: '"", "Singapore","Innovate","Imagine"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Register for tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Innagine 2019"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "Innagine@SP aims to bring together 300+ Industry leaders, regulatory representatives, partners and staff every year to attended SP’s innovation showcase. <br/> Innagine 2019 is about the changing energy and utilities landscape, SP's innovation journey and how we leverage next-generation technologies to deliver greater value to customers. Innagine will offer insights into the future of Renewable energy, Applications of AI, Consumer Energy Products and Carbon Emission Reduction technologies from real practitioners to solve global energy challenges of today & tomorrow." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
