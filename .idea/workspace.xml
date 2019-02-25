@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7b1e858-ddba-407a-b701-de5e1591af7b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-section/splogo.jpg" afterPath="$PROJECT_DIR$/img/about-section/splogo.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/find-way.html" afterPath="$PROJECT_DIR$/_includes/find-way.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/hackathon-location.html" afterPath="$PROJECT_DIR$/_includes/hackathon-location.html" />
     </list>
     <ignored path="zeppelin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,11 +57,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="location-map.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="location-map.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/location-map.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find-way.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/find-way.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hackathon-location.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/hackathon-location.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -84,9 +103,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_site/cod/index.html" />
-        <option value="$PROJECT_DIR$/_includes/find-way.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_site/logistics/index.html" />
+        <option value="$PROJECT_DIR$/_includes/hackathon-location.html" />
+        <option value="$PROJECT_DIR$/_includes/find-way.html" />
       </list>
     </option>
   </component>
@@ -351,12 +371,12 @@
       <workItem from="1549516688554" duration="1727000" />
       <workItem from="1550824503613" duration="1431000" />
       <workItem from="1550974621081" duration="10695000" />
-      <workItem from="1551010655537" duration="2998000" />
+      <workItem from="1551010655537" duration="3875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16851000" />
+    <option name="totallyTimeSpent" value="17728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1680" height="945" extended-state="0" />
@@ -471,14 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="583" column="0" selection-start-line="583" selection-start-column="0" selection-end-line="583" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/hackathon/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="0" column="1541" selection-start-line="0" selection-start-column="1541" selection-end-line="0" selection-end-column="1541" />
           <folding />
         </state>
       </provider>
@@ -699,12 +711,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="0" column="7287" selection-start-line="0" selection-start-column="7104" selection-end-line="0" selection-end-column="7287" />
-          <folding>
-            <element signature="e#1751#1757#0" expanded="true" />
-            <element signature="n#style#0;n#section#0;n#div#0;n#section#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#11627#11633#0" expanded="true" />
-            <element signature="e#11842#11850#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -716,18 +723,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/find-way.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="46" column="68" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/location-map.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/hackathon/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="0" column="9310" selection-start-line="0" selection-start-column="9310" selection-end-line="0" selection-end-column="9310" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/hackathon-location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/find-way.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
           <folding />
         </state>
       </provider>
