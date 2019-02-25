@@ -42,12 +42,12 @@ c4sponsorsUrl: "/assets/iOSConfSG-2019-Sponsor-Pack.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/#sponsors", text: "Sponsors"}
  - {permalink: "/#venue", text: "Venue"}
- - {permalink: "/workshop/", text: "Workshop"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/#about", text: "About"}
+# - {permalink: "/workshop/", text: "Workshop"}
+# - {permalink: "/team/", text: "Team"}
 rightNavigationButtons:
  - {link: "https://www.eventbrite.com/e/innagine-2019-tickets-56968595603", text: "Buy Tickets"}
 
