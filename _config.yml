@@ -72,7 +72,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from singapore"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "of energy tech"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from around the globe"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from around the globe"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -95,6 +95,7 @@ eventAddressCountry: "Singapore"
 eventStartTime: "2019-03-29T08:00"
 eventDoorTime: "09:00"
 eventEndTime: "2019-03-29T17:00"
+apke: "AIzaSyDhfa5nD42QQJcUkYpbnO4boao5h6hfSvQ"
 eventPlaceCoordinates: "1.3255421,103.8723542"
 mapCenterCoordinates: "1.3255421,103.8723542"
 mapMobileCenterCoordinates: "1.3255421,103.8723542"
