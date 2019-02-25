@@ -7,13 +7,13 @@ $bold: 500;
 $extra-bold: 600;
 
 // Base Font
-$base-font-family: sans-serif;
+$base-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 $base-font-weight: $regular;
 $base-font-size: 13px;
 $base-line-height: 23px;
 
 // Fixed Font
-$fixed-font-family: 'Roboto';
+$fixed-font-family: 'San Francisco', 'Myriad Pro';
 $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
@@ -27,12 +27,12 @@ $h5-font-size: 2.3 * $base-font-size;
 $h6-font-size: 1.875 * $base-font-size;
 
 // Colors
-$main-color: #03a9f4;
+$main-color: #F6881F;
 $link-color: $main-color;
 $link-lighten-amount: 20%;
 $base-background-color: #fff;
 $base-section-background-color: $link-color;
-$primary-color: #4285f4;
+$primary-color: #58B73F;
 $primary-color-hover: #3266d5;
 $icon-fill-color: #8b8b8b;
 
