@@ -4,14 +4,28 @@
   service: true
 -
   id: 002
-  title: "SP Digital"
+  title: "How AI / Technology is the key enabler to Smart Energy City"
   speakers: [1]
-  description: "How we build products at SP Digital"
 -
   id: 003
-  title: "REC Marketplace"
+  title: "Singapore as a Smart Energy City by 2030 </br>New energy future for EV"
   speakers: [2]
-  description: "How we use blockchains to track RECs"
+-
+  id: 004
+  title: "Centralised chiller system and other potential uses"
+  speakers: [3]
+-
+  id: 005
+  title: "Smart Cities in other parts of the world"
+  speakers: [4]
+-
+  id: 006
+  title: "Solar cell and Microgrid"
+  speakers: [5]
+-
+  id: 007
+  title: "Problem of Urban Heat"
+  speakers: [6]
 -
   id: 004
   title: "Lunch 🍽"
