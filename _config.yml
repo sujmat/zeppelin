@@ -46,10 +46,8 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/#venue", text: "Venue"}
  - {permalink: "/#about", text: "About"}
-# - {permalink: "/workshop/", text: "Workshop"}
-# - {permalink: "/team/", text: "Team"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com/e/innagine-2019-tickets-56968595603", text: "Buy Tickets"}
+ - {link: "https://www.eventbrite.com/e/innagine-2019-tickets-56968595603", text: "Register for Tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -69,9 +67,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from singapore"}
- - {count: "8", specialCharacter: "+", info: "hours", detail: "of energy tech"}
- - {count: "10", specialCharacter: "+", info: "speakers", detail: "from around the globe"}
+ - {count: "300", specialCharacter: "+", info: "attendees", detail: "from SP Group"}
+ - {count: "5", specialCharacter: "+", info: "hours", detail: "of energy tech"}
+ - {count: "6", specialCharacter: "+", info: "speakers", detail: "from SP Group and around the globe"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
