@@ -62,7 +62,7 @@ heroButtons:
 # About Block
 aboutTitle: "About Innagine 2019"
 aboutBlock:
- - {title: "Ideate. Innovate. Collaborate.", image: "conference.jpg", text: "Innagine@SP brings together thought leaders, industry partners and the SP community, focused on discovering innovation through imagination.  Participants may visit the interactive booths and displays to get to know more about the innovative products and solutions that SP Group has to offer for a more sustainable future." }
+ - {title: "Conference", image: "conference.jpg", text: "Innagine@SP brings together thought leaders, industry partners and the SP community, focused on discovering innovation through imagination.  Participants may visit the interactive booths and displays to get to know more about the innovative products and solutions that SP Group has to offer for a more sustainable future." }
  - {title: "SP Group", image: "splogo.jpg", text: "SP Group (SP) is a leading energy utilities company in Asia Pacific. One of Singapore’s largest corporations, SP recorded revenues of S$4.0 billion and assets of S$16.7 billion in FY15/16. SP owns and operates electricity and gas transmission and distribution businesses in Singapore and Australia. It also owns and operates the world’s largest underground district cooling network in Singapore, and is setting up district cooling operations in China. More than 1.5 million industrial, commercial and residential customers in Singapore benefit from SP’s world-class transmission, distribution and market support services. The SP networks in Singapore are amongst the most reliable and cost-effective worldwide." }
 
 # Statistic Block
@@ -70,7 +70,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from SP Group"}
  - {count: "5", specialCharacter: "+", info: "hours", detail: "of energy tech"}
- - {count: "6", specialCharacter: "+", info: "speakers", detail: "from SP Group and around the globe"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "from SP Group and around the globe"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
