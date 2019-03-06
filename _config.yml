@@ -70,7 +70,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from SP Group"}
  - {count: "5", specialCharacter: "+", info: "hours", detail: "of energy tech"}
- - {count: "3", specialCharacter: "+", info: "speakers", detail: "from SP Group and around the globe"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "from SP Group and around the globe"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
