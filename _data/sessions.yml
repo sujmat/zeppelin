@@ -1,6 +1,6 @@
 -
   id: 001
-  title: "Check-in 📝"
+  title: "Breakfast and Exhibit"
   service: true
 -
   id: 002
@@ -27,6 +27,14 @@
   title: "Problem of Urban Heat"
   speakers: [6]
 -
-  id: 004
-  title: "Lunch 🍽"
+  id: 008
+  title: "Opening"
+  service: true
+-
+  id: 009
+  title: "Panel Discussion"
+  speakers: [4,5]
+-
+  id: 010
+  title: "Closing Address"
   service: true

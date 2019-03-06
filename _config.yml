@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/iOSConfSG-2019-Sponsor-Pack.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/exhibits/", text: "Exhibits"}
  - {permalink: "/#venue", text: "Venue"}
