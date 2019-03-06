@@ -4,15 +4,15 @@
   service: true
 -
   id: 002
-  title: "How AI / Technology is the key enabler to Smart Energy City"
+  title: "Digital as the enabler"
   speakers: [1]
 -
   id: 003
-  title: "Singapore as a Smart Energy City by 2030 </br>New energy future for EV"
+  title: "Energy Smart Cities of the future"
   speakers: [2]
 -
   id: 004
-  title: "Centralised chiller system and other potential uses"
+  title: "District cooling and its potentials"
   speakers: [3]
 -
   id: 005
@@ -32,7 +32,7 @@
   service: true
 -
   id: 009
-  title: "Panel Discussion"
+  title: "Panel Discussion: What it takes to establish Smart Cities"
   speakers: [4,5]
 -
   id: 010
