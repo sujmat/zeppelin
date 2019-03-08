@@ -1,6 +1,6 @@
 -
   id: 001
-  title: "Breakfast and Exhibit"
+  title: "Breakfast and Viewing of Exhibits"
   service: true
 -
   id: 002
@@ -28,7 +28,7 @@
   speakers: [6]
 -
   id: 008
-  title: "Opening"
+  title: "Event Opening Video"
   service: true
 -
   id: 009
@@ -36,5 +36,9 @@
   speakers: [4,5]
 -
   id: 010
-  title: "Closing Address"
+  title: "Closing Address 🎤"
   service: true
+-
+  id: 011
+  title: "Viewing of Exhibits"
+  speakers: []
