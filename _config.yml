@@ -47,8 +47,7 @@ navigationLinks:
  - {permalink: "/exhibits/", text: "Exhibits"}
  - {permalink: "/#venue", text: "Venue"}
  - {permalink: "/#about", text: "About"}
-rightNavigationButtons:
- - {link: "https://www.eventbrite.com/e/innagine-2019-tickets-56968595603", text: "Register for Tickets"}
+
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,8 +55,6 @@ heroTitle: "innagine <typeout> 2019"
 eventDate: "March 29, 2019"
 typeoutTextValues: '"", "ideate","innovate","collaborate"'
 typeoutFallback: "Season"
-heroButtons:
- - {permalink: "https://www.eventbrite.com/e/innagine-2019-tickets-56968595603", text: "Register for tickets"}
 
 # About Block
 aboutTitle: "About innagine 2019"
