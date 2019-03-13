@@ -4,35 +4,35 @@
   service: true
 -
   id: 002
-  title: "Digital as the enabler"
+  title: "Digital as the Enabler"
   speakers: [1]
 -
   id: 003
-  title: "Energy Smart Cities of the future"
+  title: "Smart Energy Cities of the future"
   speakers: [2]
 -
   id: 004
-  title: "District cooling and its potentials"
+  title: "District cooling and its potential"
   speakers: [3]
 -
   id: 005
   title: "Smart Cities in other parts of the world"
-  speakers: [4]
+  speakers: []
 -
   id: 006
   title: "Solar cell and Microgrid"
-  speakers: [5]
+  speakers: []
 -
   id: 007
   title: "Problem of Urban Heat"
-  speakers: [6]
+  speakers: []
 -
   id: 008
   title: "Event Opening Video"
   service: true
 -
   id: 009
-  title: "Panel Discussion: What it takes to establish Smart Cities"
+  title: "Panel Discussion: Getting Ready for the Global Energy Revolution"
   speakers: [4,5]
 -
   id: 010

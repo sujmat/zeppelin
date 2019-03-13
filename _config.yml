@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Innagine 2019"
+title: "innagine 2019"
 email: "innagine@spgroup.com.sg"
-description: "Innagine@SP aims to bring together 300+ Industry leaders, regulatory representatives, partners and staff every year to attended SP’s innovation showcase"
+description: "innagine@SP aims to bring together 300+ Industry leaders, regulatory representatives, partners and staff every year to attended SP’s innovation showcase"
 baseurl: "/zeppelin"
 url: "https://innagine.com"
 permalink: "/blog/:title"
@@ -52,24 +52,24 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Innagine <typeout> 2019"
+heroTitle: "innagine <typeout> 2019"
 eventDate: "March 29, 2019"
-typeoutTextValues: '"", "Singapore","Innovate","Imagine","@SP Group"'
+typeoutTextValues: '"", "ideate","innovate","collaborate"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "https://www.eventbrite.com/e/innagine-2019-tickets-56968595603", text: "Register for tickets"}
 
 # About Block
-aboutTitle: "About Innagine 2019"
+aboutTitle: "About innagine 2019"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "Innagine@SP brings together thought leaders, industry partners and the SP community, focused on discovering innovation through imagination.  Participants may visit the interactive booths and displays to get to know more about the innovative products and solutions that SP Group has to offer for a more sustainable future." }
+ - {title: "Conference", image: "conference.jpg", text: "innagine@SP brings together thought leaders, industry partners and the SP community, focused on discovering innovation through imagination.  Participants may visit the interactive booths and displays to get to know more about the innovative products and solutions that SP Group has to offer for a more sustainable future." }
  - {title: "SP Group", image: "splogo.jpg", text: "SP Group (SP) is a leading energy utilities company in Asia Pacific. One of Singapore’s largest corporations, SP recorded revenues of S$4.0 billion and assets of S$16.7 billion in FY15/16. SP owns and operates electricity and gas transmission and distribution businesses in Singapore and Australia. It also owns and operates the world’s largest underground district cooling network in Singapore, and is setting up district cooling operations in China. More than 1.5 million industrial, commercial and residential customers in Singapore benefit from SP’s world-class transmission, distribution and market support services. The SP networks in Singapore are amongst the most reliable and cost-effective worldwide." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from SP Group"}
- - {count: "3", specialCharacter: "", info: "hours", detail: "of energy tech"}
+ - {count: "3", specialCharacter: "+", info: "hours", detail: "of energy tech"}
  - {count: "5", specialCharacter: "", info: "speakers", detail: "from SP Group and around the globe"}
 
 # Latest News Block
@@ -77,22 +77,22 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+eventLocationName: "Level 1 Auditorium"
 eventLocationLink: ""
-eventStreetAddress: "2 Kallang Sector"
+eventStreetAddress: "SP Group, 2 Kallang Sector"
 eventAddressLocality: "349277"
 eventAddressLocalityRegion: "Singapore"
 eventPostalCode: "349277"
 eventAddressCountry: "Singapore"
-eventStartTime: "2019-03-29T08:00"
+eventStartTime: "2019-03-29T08:30"
 eventDoorTime: "09:00"
-eventEndTime: "2019-03-29T17:00"
+eventEndTime: "2019-03-29T12:30"
 apke: "AIzaSyDhfa5nD42QQJcUkYpbnO4boao5h6hfSvQ"
 eventPlaceCoordinates: "1.3255421,103.8723542"
 mapCenterCoordinates: "1.3255421,103.8723542"
