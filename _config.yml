@@ -10,10 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Innagine 2019"
+title: "innagine 2019"
 email: "innagine@spgroup.com.sg"
-description: "Innagine@SP aims to bring together 300+ Industry leaders, regulatory representatives, partners and staff every year to attended SP’s innovation showcase"
-baseurl: ""
+description: "innagine@SP aims to bring together 300+ Industry leaders, regulatory representatives, partners and staff every year to attended SP’s innovation showcase"
+baseurl: "/zeppelin"
 url: "https://innagine.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-135045312-1"
@@ -42,56 +42,54 @@ c4sponsorsUrl: "/assets/iOSConfSG-2019-Sponsor-Pack.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/exhibits/", text: "Exhibits"}
  - {permalink: "/#venue", text: "Venue"}
  - {permalink: "/#about", text: "About"}
-rightNavigationButtons:
- - {link: "https://www.eventbrite.com/e/innagine-2019-tickets-56968595603", text: "Register for Tickets"}
+
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Innagine <typeout> 2019"
+heroTitle: "innagine <typeout> 2019"
 eventDate: "March 29, 2019"
-typeoutTextValues: '"", "Singapore","Innovate","Imagine","@SP Group"'
+typeoutTextValues: '"", "ideate","innovate","collaborate"'
 typeoutFallback: "Season"
-heroButtons:
- - {permalink: "https://www.eventbrite.com/e/innagine-2019-tickets-56968595603", text: "Register for tickets"}
 
 # About Block
-aboutTitle: "About Innagine 2019"
+aboutTitle: "About innagine 2019"
 aboutBlock:
- - {title: "Ideate. Innovate. Collaborate.", image: "conference.jpg", text: "Innagine@SP brings together thought leaders, industry partners and the SP community, focused on discovering innovation through imagination.  Participants may visit the interactive booths and displays to get to know more about the innovative products and solutions that SP Group has to offer for a more sustainable future." }
+ - {title: "Conference", image: "conference.jpg", text: "innagine@SP brings together thought leaders, industry partners and the SP community, focused on discovering innovation through imagination.  Participants may visit the interactive booths and displays to get to know more about the innovative products and solutions that SP Group has to offer for a more sustainable future." }
  - {title: "SP Group", image: "splogo.jpg", text: "SP Group (SP) is a leading energy utilities company in Asia Pacific. One of Singapore’s largest corporations, SP recorded revenues of S$4.0 billion and assets of S$16.7 billion in FY15/16. SP owns and operates electricity and gas transmission and distribution businesses in Singapore and Australia. It also owns and operates the world’s largest underground district cooling network in Singapore, and is setting up district cooling operations in China. More than 1.5 million industrial, commercial and residential customers in Singapore benefit from SP’s world-class transmission, distribution and market support services. The SP networks in Singapore are amongst the most reliable and cost-effective worldwide." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from SP Group"}
- - {count: "5", specialCharacter: "+", info: "hours", detail: "of energy tech"}
- - {count: "6", specialCharacter: "+", info: "speakers", detail: "from SP Group and around the globe"}
+ - {count: "3", specialCharacter: "+", info: "hours", detail: "of energy tech"}
+ - {count: "5", specialCharacter: "", info: "speakers", detail: "from SP Group and around the globe"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+eventLocationName: "Level 1 Training Hall"
 eventLocationLink: ""
-eventStreetAddress: "2 Kallang Sector"
+eventStreetAddress: "SP Group, 2 Kallang Sector"
 eventAddressLocality: "349277"
 eventAddressLocalityRegion: "Singapore"
 eventPostalCode: "349277"
 eventAddressCountry: "Singapore"
-eventStartTime: "2019-03-29T08:00"
+eventStartTime: "2019-03-29T08:30"
 eventDoorTime: "09:00"
-eventEndTime: "2019-03-29T17:00"
+eventEndTime: "2019-03-29T12:30"
 apke: "AIzaSyDhfa5nD42QQJcUkYpbnO4boao5h6hfSvQ"
 eventPlaceCoordinates: "1.3255421,103.8723542"
 mapCenterCoordinates: "1.3255421,103.8723542"
@@ -103,7 +101,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "SP Group Auditorium"
+venueTitle: "SP Group"
 venueFeatures: ["Located in kallang","Can host 300+ attendees"]
 venueFeatures: ["2 Kallang Sector", "Singapore - 349277", "Near Potong Pasir MRT"]
 
@@ -166,3 +164,16 @@ workshopRows:
  - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
  - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
 
+
+# Hackathon
+hackathonTitle: "Exhibits"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Exhibits on display"
+hackathonRows:
+ - {title: "Reimagining Outdoor Cooling", image: "outdoor-cooling.jpg", details: "Singapore District Cooling is pioneering a novel, sustainable solution to outdoor cooling. Tapping on SP Group’s underground district cooling system, it utilises chilled water returning from buildings that has already been used to cool indoor spaces. This low-cost outdoor cooling uses 90 per cent less energy when compared to conventional air-conditioning. It is a game-changing technology that makes outdoor cooling viable in Singapore’s climate – a solution that unlocks the potential of outdoor urban spaces in land-scarce Singapore."}
+ - {title: "REC Marketplace", image: "rec-marketplace.png", details: "SP Group has launched one of the world’s first blockchain-powered Renewable Energy Certificate (REC) Marketplace. This platform enables companies and individuals to trade RECs in a simple, secure and cost-effective manner. It helps corporates achieve their sustainability goals more easily and conveniently. The platform also encourages a greater integration of renewable energy sources onto the electricity grid by empowering REC buyers and sellers of any size, whether you are a corporate or a “green conscious” homeowner, to participate and benefit from the marketplace."}
+ - {title: "SP Utilities App", image: "sp-utilities.png", details: " SP Utilities is the starting point for you to learn and manage your utilities consumption, compare offerings from different retailers and choose the right plan for your home. Residents in Singapore can use the App regardless whether they are purchasing electricity from SP Group or from another Retailer. For electric car drivers, SP Utilities provides the capability to locate high speed charging stations, scan to charge your electric car and keeping track of charging transactions."}
+ - {title: "Energy Hero", image: "energy-hero.png", details: "Energy Hero is a fun-filled card game that introduces green technologies and energy-saving habits as you’re playing with friends and family! Every player start off with an empty home and they begin to fill their home with appliances from different categories: lighting, refrigeration, heating, cooling, washing and entertainment. Each appliance will have an associated number of ticks which represents its energy efficiency. To win, players add more ticks to the appliances by stacking them with green technologies or good energy behaviour cards – these are sometimes specific only to that particular appliance! The first player with more than 5 ticks from 3 different appliances of different colours wins!"}
+ - {title: "Wireless Spike Gun Pin Puller", image: "spike-gun.jpg", details: "The Wireless Spike Gun Pin Puller is an enhancement of the rope system spike gun which enhances the safety of our personnel and increase the productivity at the workplace. The device can be implemented easily to a rope system spike gun and capable to activate it wirelessly. In line with safety, the device consists of unique safety features such as safety latch and an interlocking mechanism to prevent accidental activation of spike gun."}

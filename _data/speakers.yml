@@ -1,7 +1,7 @@
 - 
   id: 1
-  name: "Sau Sheong"
-  surname: "Chang"
+  name: "Chang Sau Sheong"
+  surname: ""
   company: "SP Group"
   title: "CEO, SP Digital"
   bio: "<p>Sau Sheong leads SP Digital, the digital business subsidiary of SP Group. With a team of product managers, software engineers, architects, data scientists and user experience designers, SP Digital builds new digital products for a spectrum of internal and external users including residential, commercial, partners as well as the public at large.​ </p> <p>In his 24 years of industry experience, he has lead similar engineering teams at PayPal, Yahoo and HP in building software products. He was previously a co-founder in a software company and was involved in start-ups for more than 10 years.​</p><p> Sau Sheong runs the GopherCon Singapore, the largest community-led Go programming language conference in Southeast Asia. He is also active and contributes to many other technology communities in Singapore and Southeast Asia. He has written 4 programming and technology-related books.​ Sau Sheong has a bachelor’s degree in Computer Engineering, a Masters in Commercial Law and is a certified arbitrator in Singapore.</p> ​"
@@ -11,8 +11,8 @@
     - {name: "twitter", link: "https://twitter.com/sausheong"}
 - 
   id: 2
-  name: "Chee Keong"
-  surname: "Goh"
+  name: "Goh Chee Kiong"
+  surname: ""
   company: "SP Group"
   title: "Head, Strategic Development"
   bio: "<p> Goh Chee Kiong joined SP Group in November 2017 as the Head for Strategic Development, responsible for open innovation and developing new energy solutions in SP. The coverage includes renewables, storage, microgrids, energy management and electric mobility. </p><p>Prior to SP, Chee Kiong served in the public service with the Singapore Economic Development Board (EDB) for two decades, during which he led the development of the cleantech, urban solutions and infrastructure sectors in Singapore. His last role in EDB was the Executive Director for Cleantech, Cities, Infrastructure and Industrial Solutions. </p><p>He was responsible for conceptualising and implementing several landmark cleantech-related initiatives in Singapore, such as the growth of the water industry as a national focus area, the SolarNova programme which aggregates solar demand across government agencies, the floating PV pilot as well as the EV car sharing programme.</p>"
@@ -20,8 +20,8 @@
   rockstar: true
 -
   id: 3
-  name: "Jimmy"
-  surname: "Khoo"
+  name: "Jimmy Khoo"
+  surname: ""
   company: "SP Group"
   title: "CEO, Singapore District Cooling"
   bio: "<p>Jimmy Khoo is the Chief Executive Officer of Singapore District Cooling.  SDC provides centralised production of chilled water in the premium district of Marina Bay and is the largest fully underground network in the world.</p><p>He headed SP Group’s Business Ventures responsible for commercial and technology initiatives and various operational roles such as the grid planning division and Singapore’s Liquefied Natural Gas Terminal project. He has also been involved in overseas projects, being the Managing Director (Australia Investments) based in Melbourne. </p><p>He was previously a Brigadier General holding senior in the Ministry of Defence. He led the Joint Staff and the Future Systems Directorate responsible for disruptive technologies.</p>"
@@ -29,8 +29,8 @@
   rockstar: true
 -
   id: 4
-  name: "Julien"
-  surname: "Mialaret"
+  name: "Julien Mialaret"
+  surname: ""
   company: "Idinvest Partners"
   title: "Operating Partner"
   bio: "<p>An active investor in deep technologies for Idinvest in the US and in Europe, Julien is now working with early and growth-stage portfolio companies to accelerate their growth in Asia.</p><p>Julien focuses on key technologies in the digitalization of industry and enterprise: artificial intelligence, internet of things, cybersecurity, data analytics, robotics and cleantech. He has mainly invested in digital technologies with B2B business models and global reach: Neurala Inc. (Deep neural networks, US), TrustInSoft (Automated code analysis and flaw remediation, FR), Enlighted Inc. (IoT networks for buildings, US), First Fuel Software (Energy data analytics, US), Organica Water Inc. (Decentralized waste water treatment, US/HUN) and Actility (Low power IoT networks, FR). He remains an observer and board member of several of these companies.</p><p>Prior to joining Idinvest in 2011, Julien was based in China where he developed and acquired thermal, hydro, and wind power projects for EDF Group, one of the largest global electric utility companies. He shifted to technology start-ups in 2009, working with entrepreneurs to advise them on their deployments in the Mainland.</p>"
@@ -38,17 +38,10 @@
   rockstar: true
 -
   id: 5
-  name: "Prof Subodh Gautam"
-  surname: "Mhaisalkar"
-  title: "<p>Associate Vice President (Strategy and Partnerships), President's Office</p> <p>Executive Director, Energy Research Institute @ NTU</p> <p>Tan Chin Tuan Centennial Professor</p>"
-  bio: "<p>Prior to joining NTU in 2001, Subodh has over 10 years of research and engineering experience in the microelectronics industry where he held senior managerial positions at STATS Singapore, National Semiconductor, and SIMTech.</p> <p>Prof Subodh’s main areas of research comprise perovskite solar cells, light emitting devices, and printable electronics. Common to all these projects are methods of solution processing of semiconductors, fundamental device physics studies, and device integration. For his work in Organic Thin Film Transistors, Subodh and his team won the IEEE 2008 George E. Smith Award for their work in printable electronics. Subodh is also the recipient of Ohio State University’s Professional Achievement Award 2012, the Nanyang Award for Innovation and Entrepreneurship in 2012, and Singapore National Day Award 2014 - The Public Administration Medal (Silver), and the IIT-Bombay Distinguished Alumnus Award in 2018. </p>"
+  name: "Prof Subodh Gautam Mhaisalkar"
+  surname: ""
+  title: "Associate Vice President (Strategy and Partnerships)"
+  company: "President's Office"
+  bio: "<p>Subodh Mhaisalkar is the Associate Vice President (Strategy & Partnerships) and Professor in the School of Materials Science and Engineering at the Nanyang Technological University (NTU),Singapore.</p><p>Subodh is also the Executive Director of the Energy Research Institute @ NTU (ERI@N), a pan-University multidisciplinary research institute for innovative energy solutions. Comprising more than 220 researchers and 105 post graduate students, ERI@N has built up a critical mass of expertise in Energy Systems, Grid Systems, and Urban Solutions; and has set up more than 60 Industry partnership projects, with global industry leaders BMW, Johnson Matthey, Rolls-Royce, and Volvo.</p><p>Prior to joining NTU in 2001, Subodh has over 10 years of research and engineering experience in the microelectronics industry and his areas of expertise and current research interests includes semiconductor technology, perovskite solar cells, and printed electronics. Subodh received his Bachelors’ degree from IIT-Bombay and his MS/Ph.D. degrees from The Ohio State University.</p>"
   thumbnailUrl: subodh.png
-  rockstar: true
--
-  id: 6
-  name: "Prof Lee Poh"
-  surname: "Seng"
-  title: "<p>Assistant Dean, Research & Technology Deputy Director, Centre for Energy Research & Technology (CERT) Faculty of Engineering</p><p>Associate Professor Department of Mechanical Engineering NUS</p>"
-  bio: "<p>Prof PS Lee obtained his BEng (1st Class Honors) and MEng from the Department of Mechanical Engineering at the National University of Singapore and was a Senior Tutor with the same department from 1999 to 2001. He then proceeded to obtain his PhD degree from the School of Mechanical Engineering, Purdue University, West Lafayette, USA in 2007.</p><p>His current research interests include microfluidics and microscale heat transfer, high performance thermal management techniques (in particular microchannel single- and two-phase cooling) and hybrid solar energy harvesting systems. </p><p>His work were published in top international journals and widely cited. One of his papers won the International Journal of Heat and Mass Transfer Most Cited Papers Award for 2005-2008.In addition, he developed various novel and effective passive techniques for enhancing the heat transfer performance of microchannel heat sinks and mitigating the critical issues of hotspots and large temperature gradients in electronics devices and holds 2 US patents related to these efforts. </p>"
-  thumbnailUrl: leepohseng.png
   rockstar: true

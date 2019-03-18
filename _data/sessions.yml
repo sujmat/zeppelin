@@ -1,32 +1,44 @@
 -
   id: 001
-  title: "Check-in 📝"
+  title: "Breakfast and Viewing of Exhibits"
   service: true
 -
   id: 002
-  title: "How AI / Technology is the key enabler to Smart Energy City"
+  title: "Digital as the Enabler"
   speakers: [1]
 -
   id: 003
-  title: "Singapore as a Smart Energy City by 2030 </br>New energy future for EV"
+  title: "Smart Energy Cities of the Future"
   speakers: [2]
 -
   id: 004
-  title: "Centralised chiller system and other potential uses"
+  title: "District Cooling and its Potential"
   speakers: [3]
 -
   id: 005
   title: "Smart Cities in other parts of the world"
-  speakers: [4]
+  speakers: []
 -
   id: 006
   title: "Solar cell and Microgrid"
-  speakers: [5]
+  speakers: []
 -
   id: 007
   title: "Problem of Urban Heat"
-  speakers: [6]
+  speakers: []
 -
-  id: 004
-  title: "Lunch 🍽"
+  id: 008
+  title: "Event Opening Video"
+  service: true
+-
+  id: 009
+  title: "Panel Discussion: Getting Ready for the Global Energy Revolution"
+  speakers: [4,5]
+-
+  id: 010
+  title: "Closing Address 🎤"
+  service: true
+-
+  id: 011
+  title: "Viewing of Exhibits"
   service: true
