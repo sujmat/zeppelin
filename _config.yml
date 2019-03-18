@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "innagine 2019"
 email: "innagine@spgroup.com.sg"
 description: "innagine@SP aims to bring together 300+ Industry leaders, regulatory representatives, partners and staff every year to attended SP’s innovation showcase"
-baseurl: "/zeppelin"
+baseurl: ""
 url: "https://innagine.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-135045312-1"
