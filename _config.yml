@@ -80,7 +80,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Level 1 Auditorium"
+eventLocationName: "Level 1 Training Hall"
 eventLocationLink: ""
 eventStreetAddress: "SP Group, 2 Kallang Sector"
 eventAddressLocality: "349277"
@@ -101,7 +101,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "SP Group Auditorium"
+venueTitle: "SP Group"
 venueFeatures: ["Located in kallang","Can host 300+ attendees"]
 venueFeatures: ["2 Kallang Sector", "Singapore - 349277", "Near Potong Pasir MRT"]
 
